@@ -5,7 +5,7 @@
 Me chamo Isabel Vitoriano, tenho 17 anos e sou natural do Ceará. Estou no último ano do ensino médio com o curso técnico em desenvolvimento de sistemas. Me interesso pela área de tecnologia, como criação de sites e aplicações móveis. Também me interesso pelo design UI/UX e desejo trabalhar dentro desses dois universos.
 
 <p align="left">
-    <a href="www.linkedin.com/in/isabel-vitoriano-dev">
+    <a href="https://www.linkedin.com/in/isabel-vitoriano-dev">
         <img 
             alt="linkedIn view" 
             title="Perfil no LinkedIn" 
