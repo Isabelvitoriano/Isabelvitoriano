@@ -88,11 +88,4 @@ Me chamo Isabel Vitoriano, tenho 17 anos e sou natural do Ceará. Estou no últi
     src="https://github-readme-stats.vercel.app/api?username=Isabelvitoriano&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelvitoriano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
